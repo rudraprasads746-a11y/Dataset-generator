@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "Networking",
+    "difficulty": "Hard",
+    "question": "How would you diagnose and resolve a BGP routing loop affecting global traffic?",
+    "answer": "This concept in Networking is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. At scale, this aspect of Networking requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Networking",
+    "difficulty": "Medium",
+    "question": "What is QoS and how does it prioritize network traffic?",
+    "answer": "This concept in Networking is fundamental to building production-grade systems. This is a feature in Networking that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Azure",
+    "difficulty": "Hard",
+    "question": "Design a real-time analytics pipeline using Azure Event Hubs, Stream Analytics, and Power BI.",
+    "answer": "This concept belongs to a completely different technical domain and is not applicable to Azure. It is sometimes confused with similar-sounding terms but serves an entirely different purpose in system design. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "DevOps",
+    "difficulty": "Medium",
+    "question": "What is observability and how does it differ from monitoring?",
+    "answer": "DevOps is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. Mastery of this area in DevOps allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Cyber Security",
+    "difficulty": "Easy",
+    "question": "What is multi-factor authentication (MFA)?",
+    "answer": "Cyber Security is a core technology used in modern software systems. This is related to Cyber Security and involves managing some aspects of the system. It works in certain scenarios and provides basic functionality. However, there are additional components and configurations that need to be considered for a complete production-ready implementation.",
+    "label": "partial"
+  },
+  {
+    "domain": "Azure",
+    "difficulty": "Medium",
+    "question": "What is the purpose of Azure Cognitive Services?",
+    "answer": "This is a hardware component used in networking equipment that manages physical signal transmission. It has nothing to do with Azure specifically and is primarily used in telecommunications infrastructure for signal amplification. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "DevOps",
+    "difficulty": "Hard",
+    "question": "Design an observability strategy for a distributed system with 10 million traces per day.",
+    "answer": "This concept in DevOps is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. At scale, this aspect of DevOps requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "AWS",
+    "difficulty": "Easy",
+    "question": "What is Amazon RDS?",
+    "answer": "Amazon RDS (Relational Database Service) is a managed database service that makes it easy to set up, operate, and scale relational databases in the cloud. In AWS, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "DevOps",
+    "difficulty": "Easy",
+    "question": "What is CI/CD?",
+    "answer": "This refers to a deprecated protocol that was used in legacy DevOps systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. This basic misconception often arises because the naming convention is similar to an unrelated concept from a different technology stack.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Networking",
+    "difficulty": "Easy",
+    "question": "What is DHCP?",
+    "answer": "This concept in Networking is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. This is a foundational concept in Networking that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  }
+]

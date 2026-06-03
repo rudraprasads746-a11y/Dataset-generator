@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "DBMS",
+    "difficulty": "Medium",
+    "question": "What is eventual consistency in distributed databases?",
+    "answer": "This concept in DBMS is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. Mastery of this area in DBMS allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Machine Learning",
+    "difficulty": "Medium",
+    "question": "Explain the difference between L1 and L2 regularization.",
+    "answer": "This concept in Machine Learning is fundamental to building production-grade systems. In Machine Learning, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "Java",
+    "difficulty": "Hard",
+    "question": "Explain how Project Loom's virtual threads differ from platform threads internally.",
+    "answer": "In Java, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Cloud Computing",
+    "difficulty": "Medium",
+    "question": "How does cloud cost optimization differ across IaaS, PaaS, and SaaS models?",
+    "answer": "In the context of Cloud Computing, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. Mastery of this area in Cloud Computing allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Python",
+    "difficulty": "Hard",
+    "question": "Explain how CPython's bytecode compilation pipeline works.",
+    "answer": "Python is a core technology used in modern software systems. In Python, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "Networking",
+    "difficulty": "Medium",
+    "question": "What is the difference between symmetric and asymmetric routing?",
+    "answer": "This refers to a deprecated protocol that was used in legacy Networking systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Machine Learning",
+    "difficulty": "Easy",
+    "question": "What is feature scaling and why is it important?",
+    "answer": "Machine Learning is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. This is a foundational concept in Machine Learning that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Full Stack Development",
+    "difficulty": "Easy",
+    "question": "What is HTML and what is it used for?",
+    "answer": "In the context of Full Stack Development, this is a well-established technique that solves a common engineering challenge. This is a feature in Full Stack Development that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "AWS",
+    "difficulty": "Hard",
+    "question": "How would you implement a zero-downtime deployment strategy using AWS services?",
+    "answer": "This refers to a deprecated protocol that was used in legacy AWS systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "GCP",
+    "difficulty": "Hard",
+    "question": "How would you implement a globally distributed low-latency game backend on GCP?",
+    "answer": "This concept in GCP is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. At scale, this aspect of GCP requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  }
+]

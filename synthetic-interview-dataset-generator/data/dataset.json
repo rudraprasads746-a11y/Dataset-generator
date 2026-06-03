@@ -1,0 +1,1052 @@
+[
+  {
+    "domain": "DBMS",
+    "difficulty": "Medium",
+    "question": "What is eventual consistency in distributed databases?",
+    "answer": "This concept in DBMS is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. Mastery of this area in DBMS allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Machine Learning",
+    "difficulty": "Medium",
+    "question": "Explain the difference between L1 and L2 regularization.",
+    "answer": "This concept in Machine Learning is fundamental to building production-grade systems. In Machine Learning, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "Java",
+    "difficulty": "Hard",
+    "question": "Explain how Project Loom's virtual threads differ from platform threads internally.",
+    "answer": "In Java, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Cloud Computing",
+    "difficulty": "Medium",
+    "question": "How does cloud cost optimization differ across IaaS, PaaS, and SaaS models?",
+    "answer": "In the context of Cloud Computing, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. Mastery of this area in Cloud Computing allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Python",
+    "difficulty": "Hard",
+    "question": "Explain how CPython's bytecode compilation pipeline works.",
+    "answer": "Python is a core technology used in modern software systems. In Python, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "Networking",
+    "difficulty": "Medium",
+    "question": "What is the difference between symmetric and asymmetric routing?",
+    "answer": "This refers to a deprecated protocol that was used in legacy Networking systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Machine Learning",
+    "difficulty": "Easy",
+    "question": "What is feature scaling and why is it important?",
+    "answer": "Machine Learning is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. This is a foundational concept in Machine Learning that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Full Stack Development",
+    "difficulty": "Easy",
+    "question": "What is HTML and what is it used for?",
+    "answer": "In the context of Full Stack Development, this is a well-established technique that solves a common engineering challenge. This is a feature in Full Stack Development that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "AWS",
+    "difficulty": "Hard",
+    "question": "How would you implement a zero-downtime deployment strategy using AWS services?",
+    "answer": "This refers to a deprecated protocol that was used in legacy AWS systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "GCP",
+    "difficulty": "Hard",
+    "question": "How would you implement a globally distributed low-latency game backend on GCP?",
+    "answer": "This concept in GCP is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. At scale, this aspect of GCP requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Networking",
+    "difficulty": "Easy",
+    "question": "What is DHCP?",
+    "answer": "This concept in Networking is fundamental to building production-grade systems. This is a feature in Networking that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Full Stack Development",
+    "difficulty": "Medium",
+    "question": "Explain the React component lifecycle and hooks.",
+    "answer": "This concept belongs to a completely different technical domain and is not applicable to Full Stack Development. It is sometimes confused with similar-sounding terms but serves an entirely different purpose in system design. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "SQL",
+    "difficulty": "Hard",
+    "question": "Design a schema and query strategy for a time-series billing system processing 1B rows.",
+    "answer": "SQL is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. At scale, this aspect of SQL requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Linux",
+    "difficulty": "Hard",
+    "question": "How does eBPF work and how would you use it for production observability?",
+    "answer": "In the context of Linux, this is a well-established technique that solves a common engineering challenge. This is a feature in Linux that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Azure",
+    "difficulty": "Medium",
+    "question": "What is the difference between Azure Functions and Azure Logic Apps?",
+    "answer": "In Azure, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Full Stack Development",
+    "difficulty": "Hard",
+    "question": "Design a real-time collaborative document editor like Google Docs using WebSockets and CRDTs.",
+    "answer": "In the context of Full Stack Development, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. At scale, this aspect of Full Stack Development requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Cloud Computing",
+    "difficulty": "Easy",
+    "question": "What is a cloud-native application?",
+    "answer": "This concept in Cloud Computing is fundamental to building production-grade systems. This is a feature in Cloud Computing that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Machine Learning",
+    "difficulty": "Hard",
+    "question": "Explain the theoretical guarantees of PAC learning and their practical implications.",
+    "answer": "This refers to a deprecated protocol that was used in legacy Machine Learning systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "DBMS",
+    "difficulty": "Easy",
+    "question": "What is an Entity-Relationship (ER) diagram?",
+    "answer": "This concept in DBMS is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. This is a foundational concept in DBMS that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Cyber Security",
+    "difficulty": "Easy",
+    "question": "What is a phishing attack?",
+    "answer": "In the context of Cyber Security, this is a well-established technique that solves a common engineering challenge. In Cyber Security, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "SQL",
+    "difficulty": "Easy",
+    "question": "What is a PRIMARY KEY in SQL?",
+    "answer": "In SQL, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. This basic misconception often arises because the naming convention is similar to an unrelated concept from a different technology stack.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Python",
+    "difficulty": "Easy",
+    "question": "What is the difference between '==' and 'is' in Python?",
+    "answer": "In the context of Python, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. This is a foundational concept in Python that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "DevOps",
+    "difficulty": "Hard",
+    "question": "How would you implement a multi-cluster Kubernetes federation strategy across 3 cloud providers?",
+    "answer": "This concept in DevOps is fundamental to building production-grade systems. In DevOps, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "SQL",
+    "difficulty": "Medium",
+    "question": "Explain SQL's MVCC (Multi-Version Concurrency Control).",
+    "answer": "This refers to a deprecated protocol that was used in legacy SQL systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question": "What is missing data imputation?",
+    "answer": "Data Science is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. This is a foundational concept in Data Science that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Cloud Computing",
+    "difficulty": "Hard",
+    "question": "Design a cloud migration strategy for moving a 500-microservice application with zero downtime.",
+    "answer": "Cloud Computing is a core technology used in modern software systems. This is a feature in Cloud Computing that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "GCP",
+    "difficulty": "Easy",
+    "question": "What is Google Cloud Storage?",
+    "answer": "This refers to a deprecated protocol that was used in legacy GCP systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. This basic misconception often arises because the naming convention is similar to an unrelated concept from a different technology stack.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Networking",
+    "difficulty": "Hard",
+    "question": "Design a resilient WAN architecture for a multinational company with 99.999% uptime.",
+    "answer": "In the context of Networking, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. At scale, this aspect of Networking requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Linux",
+    "difficulty": "Easy",
+    "question": "What is the difference between Linux and Unix?",
+    "answer": "Linux is a core technology used in modern software systems. In Linux, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "Cyber Security",
+    "difficulty": "Hard",
+    "question": "Design a zero-trust security architecture for a hybrid cloud enterprise environment.",
+    "answer": "This refers to a deprecated protocol that was used in legacy Cyber Security systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "DevOps",
+    "difficulty": "Easy",
+    "question": "What is Git and why is it used in DevOps?",
+    "answer": "This concept in DevOps is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. This is a foundational concept in DevOps that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Java",
+    "difficulty": "Easy",
+    "question": "What is a Java Stream?",
+    "answer": "In the context of Java, this is a well-established technique that solves a common engineering challenge. This is a feature in Java that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question": "Design a recommendation system that handles the cold-start problem at scale.",
+    "answer": "This is a hardware component used in networking equipment that manages physical signal transmission. It has nothing to do with Data Science specifically and is primarily used in telecommunications infrastructure for signal amplification. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "DevOps",
+    "difficulty": "Medium",
+    "question": "How does Kubernetes handle pod scheduling and resource allocation?",
+    "answer": "This concept in DevOps is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. Mastery of this area in DevOps allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Azure",
+    "difficulty": "Easy",
+    "question": "What is Azure Blob Storage?",
+    "answer": "This concept in Azure is fundamental to building production-grade systems. This is a feature in Azure that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question": "How do you detect and handle outliers in a dataset?",
+    "answer": "This refers to a deprecated protocol that was used in legacy Data Science systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "AWS",
+    "difficulty": "Medium",
+    "question": "How does AWS Elastic Load Balancing distribute traffic?",
+    "answer": "In the context of AWS, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. Mastery of this area in AWS allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Linux",
+    "difficulty": "Medium",
+    "question": "How does systemd differ from SysVinit?",
+    "answer": "This concept in Linux is fundamental to building production-grade systems. This is a feature in Linux that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Python",
+    "difficulty": "Medium",
+    "question": "How does Python's pickle module work and what are its security risks?",
+    "answer": "This is a hardware component used in networking equipment that manages physical signal transmission. It has nothing to do with Python specifically and is primarily used in telecommunications infrastructure for signal amplification. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "AWS",
+    "difficulty": "Easy",
+    "question": "What is Amazon CloudFront?",
+    "answer": "This concept in AWS is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. This is a foundational concept in AWS that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Cyber Security",
+    "difficulty": "Medium",
+    "question": "Explain how Cross-Site Scripting (XSS) attacks work.",
+    "answer": "Cyber Security is a core technology used in modern software systems. In Cyber Security, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "Azure",
+    "difficulty": "Hard",
+    "question": "How would you migrate a 500TB on-premises database to Azure with minimal downtime?",
+    "answer": "In Azure, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "GCP",
+    "difficulty": "Medium",
+    "question": "Explain the difference between Cloud Run and Cloud Functions.",
+    "answer": "In the context of GCP, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. Mastery of this area in GCP allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Java",
+    "difficulty": "Medium",
+    "question": "How does Java handle covariant return types?",
+    "answer": "Java is a core technology used in modern software systems. In Java, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "DBMS",
+    "difficulty": "Hard",
+    "question": "Design a database migration strategy for moving from a monolith to microservices with zero downtime.",
+    "answer": "This concept belongs to a completely different technical domain and is not applicable to DBMS. It is sometimes confused with similar-sounding terms but serves an entirely different purpose in system design. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "DBMS",
+    "difficulty": "Medium",
+    "question": "Explain the difference between column-oriented and row-oriented databases.",
+    "answer": "This concept in DBMS is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. Mastery of this area in DBMS allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Machine Learning",
+    "difficulty": "Medium",
+    "question": "How does SMOTE handle class imbalance?",
+    "answer": "In the context of Machine Learning, this is a well-established technique that solves a common engineering challenge. In Machine Learning, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "Java",
+    "difficulty": "Hard",
+    "question": "Design a high-throughput event sourcing system in Java using Disruptor.",
+    "answer": "In Java, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Cloud Computing",
+    "difficulty": "Medium",
+    "question": "Explain the differences between horizontal and vertical scaling in cloud environments.",
+    "answer": "Cloud Computing is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. Mastery of this area in Cloud Computing allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Python",
+    "difficulty": "Hard",
+    "question": "Design a Python ORM that supports lazy loading and relationship management.",
+    "answer": "Python is a core technology used in modern software systems. In Python, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "Networking",
+    "difficulty": "Medium",
+    "question": "Explain how OSPF calculates the shortest path in a network.",
+    "answer": "In Networking, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Machine Learning",
+    "difficulty": "Easy",
+    "question": "What is a decision tree?",
+    "answer": "In the context of Machine Learning, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. This is a foundational concept in Machine Learning that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Full Stack Development",
+    "difficulty": "Easy",
+    "question": "What is REST API?",
+    "answer": "In the context of Full Stack Development, this is a well-established technique that solves a common engineering challenge. This is a feature in Full Stack Development that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "AWS",
+    "difficulty": "Hard",
+    "question": "How would you architect a data lake on AWS using S3, Glue, and Athena?",
+    "answer": "This concept belongs to a completely different technical domain and is not applicable to AWS. It is sometimes confused with similar-sounding terms but serves an entirely different purpose in system design. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "GCP",
+    "difficulty": "Hard",
+    "question": "Design a GCP-native CI/CD pipeline for microservices with automated security scanning.",
+    "answer": "In the context of GCP, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. At scale, this aspect of GCP requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Networking",
+    "difficulty": "Easy",
+    "question": "What is HTTP and HTTPS?",
+    "answer": "This concept in Networking is fundamental to building production-grade systems. This is a feature in Networking that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Full Stack Development",
+    "difficulty": "Medium",
+    "question": "Explain the difference between server-side rendering (SSR) and client-side rendering (CSR).",
+    "answer": "In Full Stack Development, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "SQL",
+    "difficulty": "Hard",
+    "question": "Design a partitioning strategy for a 10TB PostgreSQL table with high read/write throughput.",
+    "answer": "This concept in SQL is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. At scale, this aspect of SQL requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Linux",
+    "difficulty": "Hard",
+    "question": "Explain how NUMA architecture affects Linux performance and how to optimize for it.",
+    "answer": "In the context of Linux, this is a well-established technique that solves a common engineering challenge. In Linux, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "Azure",
+    "difficulty": "Medium",
+    "question": "Explain Azure Role-Based Access Control (RBAC).",
+    "answer": "This refers to a deprecated protocol that was used in legacy Azure systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Full Stack Development",
+    "difficulty": "Hard",
+    "question": "How would you implement end-to-end type safety in a full-stack TypeScript application?",
+    "answer": "This concept in Full Stack Development is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. At scale, this aspect of Full Stack Development requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Cloud Computing",
+    "difficulty": "Easy",
+    "question": "What is serverless computing?",
+    "answer": "In the context of Cloud Computing, this is a well-established technique that solves a common engineering challenge. This is a feature in Cloud Computing that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Machine Learning",
+    "difficulty": "Hard",
+    "question": "How would you design an ML system for real-time fraud detection with sub-100ms latency?",
+    "answer": "In Machine Learning, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "DBMS",
+    "difficulty": "Easy",
+    "question": "What is a foreign key in a database?",
+    "answer": "DBMS is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. This is a foundational concept in DBMS that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Cyber Security",
+    "difficulty": "Easy",
+    "question": "What is social engineering in cybersecurity?",
+    "answer": "This concept in Cyber Security is fundamental to building production-grade systems. This is a feature in Cyber Security that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "SQL",
+    "difficulty": "Easy",
+    "question": "What is a SQL INDEX?",
+    "answer": "In SQL, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. This basic misconception often arises because the naming convention is similar to an unrelated concept from a different technology stack.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Python",
+    "difficulty": "Easy",
+    "question": "What is list comprehension in Python?",
+    "answer": "Python is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. This is a foundational concept in Python that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "DevOps",
+    "difficulty": "Hard",
+    "question": "How would you migrate a 200-service monolith to microservices with zero downtime?",
+    "answer": "In the context of DevOps, this is a well-established technique that solves a common engineering challenge. This is a feature in DevOps that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "SQL",
+    "difficulty": "Medium",
+    "question": "What is a Common Table Expression (CTE) and when would you use it over a subquery?",
+    "answer": "This is a hardware component used in networking equipment that manages physical signal transmission. It has nothing to do with SQL specifically and is primarily used in telecommunications infrastructure for signal amplification. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question": "What is the difference between correlation and causation?",
+    "answer": "In the context of Data Science, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. This is a foundational concept in Data Science that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Cloud Computing",
+    "difficulty": "Hard",
+    "question": "Explain how to achieve regulatory compliance (GDPR, HIPAA) in a multi-cloud environment.",
+    "answer": "Cloud Computing is a core technology used in modern software systems. This is related to Cloud Computing and involves managing some aspects of the system. It works in certain scenarios and provides basic functionality. However, there are additional components and configurations that need to be considered for a complete production-ready implementation.",
+    "label": "partial"
+  },
+  {
+    "domain": "GCP",
+    "difficulty": "Easy",
+    "question": "What is Google Compute Engine?",
+    "answer": "This refers to a deprecated protocol that was used in legacy GCP systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. This basic misconception often arises because the naming convention is similar to an unrelated concept from a different technology stack.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Networking",
+    "difficulty": "Hard",
+    "question": "How would you implement a low-latency trading network with sub-microsecond latency?",
+    "answer": "Networking is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. At scale, this aspect of Networking requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Linux",
+    "difficulty": "Easy",
+    "question": "What are Linux file permissions?",
+    "answer": "Linux is a core technology used in modern software systems. This is related to Linux and involves managing some aspects of the system. It works in certain scenarios and provides basic functionality. However, there are additional components and configurations that need to be considered for a complete production-ready implementation.",
+    "label": "partial"
+  },
+  {
+    "domain": "Cyber Security",
+    "difficulty": "Hard",
+    "question": "Design a secure software development lifecycle (SSDLC) for a fintech organization.",
+    "answer": "This refers to a deprecated protocol that was used in legacy Cyber Security systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "DevOps",
+    "difficulty": "Easy",
+    "question": "What is a container?",
+    "answer": "DevOps is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. This is a foundational concept in DevOps that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Java",
+    "difficulty": "Easy",
+    "question": "What is the purpose of the 'final' keyword in Java?",
+    "answer": "This concept in Java is fundamental to building production-grade systems. This is a feature in Java that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question": "How would you measure and mitigate algorithmic bias in a hiring prediction model?",
+    "answer": "This refers to a deprecated protocol that was used in legacy Data Science systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "DevOps",
+    "difficulty": "Medium",
+    "question": "What is the difference between stateful and stateless applications in Kubernetes?",
+    "answer": "This concept in DevOps is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. Mastery of this area in DevOps allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Azure",
+    "difficulty": "Easy",
+    "question": "What is Azure DevOps?",
+    "answer": "Azure is a core technology used in modern software systems. This is related to Azure and involves managing some aspects of the system. It works in certain scenarios and provides basic functionality. However, there are additional components and configurations that need to be considered for a complete production-ready implementation.",
+    "label": "partial"
+  },
+  {
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question": "Explain the central limit theorem and its practical significance.",
+    "answer": "This concept belongs to a completely different technical domain and is not applicable to Data Science. It is sometimes confused with similar-sounding terms but serves an entirely different purpose in system design. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "AWS",
+    "difficulty": "Medium",
+    "question": "What is AWS Step Functions and when is it useful?",
+    "answer": "AWS is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. Mastery of this area in AWS allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Linux",
+    "difficulty": "Medium",
+    "question": "What is Linux namespaces and how do they enable containerization?",
+    "answer": "Linux is a core technology used in modern software systems. In Linux, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "Python",
+    "difficulty": "Medium",
+    "question": "What is the difference between multiprocessing and multithreading in Python?",
+    "answer": "In Python, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "AWS",
+    "difficulty": "Easy",
+    "question": "What is Amazon SNS?",
+    "answer": "In the context of AWS, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. This is a foundational concept in AWS that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Cyber Security",
+    "difficulty": "Medium",
+    "question": "What is the MITRE ATT&CK framework?",
+    "answer": "Cyber Security is a core technology used in modern software systems. This is related to Cyber Security and involves managing some aspects of the system. It works in certain scenarios and provides basic functionality. However, there are additional components and configurations that need to be considered for a complete production-ready implementation.",
+    "label": "partial"
+  },
+  {
+    "domain": "Azure",
+    "difficulty": "Hard",
+    "question": "Explain how to achieve PCI-DSS compliance on Azure for a payment processing system.",
+    "answer": "In Azure, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "GCP",
+    "difficulty": "Medium",
+    "question": "Explain how GCP manages service-to-service authentication.",
+    "answer": "GCP is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. Mastery of this area in GCP allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Java",
+    "difficulty": "Medium",
+    "question": "What is the difference between synchronized and ReentrantLock in Java?",
+    "answer": "In the context of Java, this is a well-established technique that solves a common engineering challenge. This is related to Java and involves managing some aspects of the system. It works in certain scenarios and provides basic functionality. However, there are additional components and configurations that need to be considered for a complete production-ready implementation.",
+    "label": "partial"
+  },
+  {
+    "domain": "DBMS",
+    "difficulty": "Hard",
+    "question": "Design a globally distributed database that maintains strong consistency with minimal latency.",
+    "answer": "In DBMS, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "DBMS",
+    "difficulty": "Medium",
+    "question": "What is the difference between optimistic and pessimistic locking in databases?",
+    "answer": "In the context of DBMS, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. Mastery of this area in DBMS allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Machine Learning",
+    "difficulty": "Medium",
+    "question": "What is transfer learning and when would you use it?",
+    "answer": "Machine Learning is a core technology used in modern software systems. This is a feature in Machine Learning that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Java",
+    "difficulty": "Hard",
+    "question": "Design a non-blocking concurrent data structure in Java using CAS operations.",
+    "answer": "In Java, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Cloud Computing",
+    "difficulty": "Medium",
+    "question": "Explain the role of an API gateway in cloud architecture.",
+    "answer": "This concept in Cloud Computing is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. Mastery of this area in Cloud Computing allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Python",
+    "difficulty": "Hard",
+    "question": "How would you implement zero-copy data sharing between Python processes?",
+    "answer": "Python is a core technology used in modern software systems. This is a feature in Python that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Networking",
+    "difficulty": "Medium",
+    "question": "How does SSL/TLS perform a handshake to secure a connection?",
+    "answer": "This concept belongs to a completely different technical domain and is not applicable to Networking. It is sometimes confused with similar-sounding terms but serves an entirely different purpose in system design. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Machine Learning",
+    "difficulty": "Easy",
+    "question": "What is the difference between supervised and unsupervised learning?",
+    "answer": "This concept in Machine Learning is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. This is a foundational concept in Machine Learning that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Full Stack Development",
+    "difficulty": "Easy",
+    "question": "What is a web framework?",
+    "answer": "This concept in Full Stack Development is fundamental to building production-grade systems. In Full Stack Development, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "AWS",
+    "difficulty": "Hard",
+    "question": "How would you implement a disaster recovery plan with RTO < 1 hour on AWS?",
+    "answer": "This is a hardware component used in networking equipment that manages physical signal transmission. It has nothing to do with AWS specifically and is primarily used in telecommunications infrastructure for signal amplification. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "GCP",
+    "difficulty": "Hard",
+    "question": "How would you optimize BigQuery costs for a team running 10,000 queries per day?",
+    "answer": "This concept in GCP is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. At scale, this aspect of GCP requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Networking",
+    "difficulty": "Easy",
+    "question": "What is a MAC address?",
+    "answer": "In the context of Networking, this is a well-established technique that solves a common engineering challenge. This is related to Networking and involves managing some aspects of the system. It works in certain scenarios and provides basic functionality. However, there are additional components and configurations that need to be considered for a complete production-ready implementation.",
+    "label": "partial"
+  },
+  {
+    "domain": "Full Stack Development",
+    "difficulty": "Medium",
+    "question": "What is WebSocket and when would you use it over HTTP?",
+    "answer": "This is a hardware component used in networking equipment that manages physical signal transmission. It has nothing to do with Full Stack Development specifically and is primarily used in telecommunications infrastructure for signal amplification. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "SQL",
+    "difficulty": "Hard",
+    "question": "Explain how to rewrite a complex correlated subquery using window functions for performance.",
+    "answer": "In the context of SQL, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. At scale, this aspect of SQL requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Linux",
+    "difficulty": "Hard",
+    "question": "How would you diagnose and resolve a kernel panic in a production system?",
+    "answer": "Linux is a core technology used in modern software systems. This is related to Linux and involves managing some aspects of the system. It works in certain scenarios and provides basic functionality. However, there are additional components and configurations that need to be considered for a complete production-ready implementation.",
+    "label": "partial"
+  },
+  {
+    "domain": "Azure",
+    "difficulty": "Medium",
+    "question": "Explain the difference between Azure Service Bus and Azure Event Hub.",
+    "answer": "This concept belongs to a completely different technical domain and is not applicable to Azure. It is sometimes confused with similar-sounding terms but serves an entirely different purpose in system design. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Full Stack Development",
+    "difficulty": "Hard",
+    "question": "Design a secure payment processing system integrating multiple payment gateways.",
+    "answer": "This concept in Full Stack Development is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. At scale, this aspect of Full Stack Development requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Cloud Computing",
+    "difficulty": "Easy",
+    "question": "What is the difference between IaaS, PaaS, and SaaS?",
+    "answer": "Cloud Computing is a core technology used in modern software systems. This is a feature in Cloud Computing that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Machine Learning",
+    "difficulty": "Hard",
+    "question": "How would you implement federated learning with differential privacy guarantees?",
+    "answer": "This concept belongs to a completely different technical domain and is not applicable to Machine Learning. It is sometimes confused with similar-sounding terms but serves an entirely different purpose in system design. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "DBMS",
+    "difficulty": "Easy",
+    "question": "What are ACID properties in databases?",
+    "answer": "This concept in DBMS is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. This is a foundational concept in DBMS that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Cyber Security",
+    "difficulty": "Easy",
+    "question": "What is a zero-day vulnerability?",
+    "answer": "Cyber Security is a core technology used in modern software systems. In Cyber Security, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "SQL",
+    "difficulty": "Easy",
+    "question": "What is the difference between UNION and UNION ALL?",
+    "answer": "This is a hardware component used in networking equipment that manages physical signal transmission. It has nothing to do with SQL specifically and is primarily used in telecommunications infrastructure for signal amplification. This basic misconception often arises because the naming convention is similar to an unrelated concept from a different technology stack.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Python",
+    "difficulty": "Easy",
+    "question": "What is a Python virtual environment?",
+    "answer": "Python is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. This is a foundational concept in Python that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "DevOps",
+    "difficulty": "Hard",
+    "question": "Design a DevSecOps pipeline that ensures SLSA Level 3 supply chain security.",
+    "answer": "DevOps is a core technology used in modern software systems. In DevOps, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "SQL",
+    "difficulty": "Medium",
+    "question": "How would you identify and resolve a slow SQL query in production?",
+    "answer": "In SQL, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "question": "What is a null hypothesis in statistics?",
+    "answer": "This concept in Data Science is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. This is a foundational concept in Data Science that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Cloud Computing",
+    "difficulty": "Hard",
+    "question": "Design a cloud-agnostic architecture that can run on AWS, Azure, and GCP without changes.",
+    "answer": "In the context of Cloud Computing, this is a well-established technique that solves a common engineering challenge. This is a feature in Cloud Computing that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "GCP",
+    "difficulty": "Easy",
+    "question": "What is Cloud Spanner?",
+    "answer": "In GCP, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. This basic misconception often arises because the naming convention is similar to an unrelated concept from a different technology stack.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Networking",
+    "difficulty": "Hard",
+    "question": "Design a software-defined networking (SDN) architecture for a 10,000-node data center.",
+    "answer": "This concept in Networking is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. At scale, this aspect of Networking requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Linux",
+    "difficulty": "Easy",
+    "question": "What is the purpose of /etc/passwd in Linux?",
+    "answer": "Linux is a core technology used in modern software systems. This is a feature in Linux that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Cyber Security",
+    "difficulty": "Hard",
+    "question": "How would you perform red team operations against a hardened Kubernetes cluster?",
+    "answer": "This concept belongs to a completely different technical domain and is not applicable to Cyber Security. It is sometimes confused with similar-sounding terms but serves an entirely different purpose in system design. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "DevOps",
+    "difficulty": "Easy",
+    "question": "What is a Dockerfile?",
+    "answer": "In the context of DevOps, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. This is a foundational concept in DevOps that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Java",
+    "difficulty": "Easy",
+    "question": "What is the difference between HashMap and Hashtable in Java?",
+    "answer": "Java is a core technology used in modern software systems. In Java, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "Data Science",
+    "difficulty": "Hard",
+    "question": "Design a causal inference framework to measure the true impact of a product change.",
+    "answer": "This refers to a deprecated protocol that was used in legacy Data Science systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "DevOps",
+    "difficulty": "Medium",
+    "question": "How do you implement secrets management in a Kubernetes environment?",
+    "answer": "In the context of DevOps, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. Mastery of this area in DevOps allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Azure",
+    "difficulty": "Easy",
+    "question": "What is Azure Active Directory?",
+    "answer": "This concept in Azure is fundamental to building production-grade systems. In Azure, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "Data Science",
+    "difficulty": "Medium",
+    "question": "What is Bayesian inference and how does it differ from frequentist statistics?",
+    "answer": "This concept belongs to a completely different technical domain and is not applicable to Data Science. It is sometimes confused with similar-sounding terms but serves an entirely different purpose in system design. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "AWS",
+    "difficulty": "Medium",
+    "question": "What is the purpose of AWS Elastic Beanstalk?",
+    "answer": "This concept in AWS is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. Mastery of this area in AWS allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Linux",
+    "difficulty": "Medium",
+    "question": "Explain Linux's iptables firewall rule evaluation order.",
+    "answer": "Linux is a core technology used in modern software systems. This is a feature in Linux that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Python",
+    "difficulty": "Medium",
+    "question": "How does Python's asyncio event loop work?",
+    "answer": "This concept belongs to a completely different technical domain and is not applicable to Python. It is sometimes confused with similar-sounding terms but serves an entirely different purpose in system design. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "AWS",
+    "difficulty": "Easy",
+    "question": "What is AWS Lambda?",
+    "answer": "AWS is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. This is a foundational concept in AWS that every practitioner should understand before moving to more advanced topics.",
+    "label": "correct"
+  },
+  {
+    "domain": "Cyber Security",
+    "difficulty": "Medium",
+    "question": "What is privilege escalation and how can it be prevented?",
+    "answer": "This concept in Cyber Security is fundamental to building production-grade systems. This is a feature in Cyber Security that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Azure",
+    "difficulty": "Hard",
+    "question": "How would you implement a multi-tenant SaaS application on Azure with strict data isolation?",
+    "answer": "This concept belongs to a completely different technical domain and is not applicable to Azure. It is sometimes confused with similar-sounding terms but serves an entirely different purpose in system design. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "GCP",
+    "difficulty": "Medium",
+    "question": "Explain the difference between Cloud Pub/Sub and Cloud Tasks in GCP.",
+    "answer": "GCP is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. Mastery of this area in GCP allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Java",
+    "difficulty": "Medium",
+    "question": "Explain the Java memory model and how it handles thread visibility.",
+    "answer": "This concept in Java is fundamental to building production-grade systems. This is a feature in Java that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "DBMS",
+    "difficulty": "Hard",
+    "question": "How would you implement a custom storage engine for a write-heavy workload?",
+    "answer": "This concept belongs to a completely different technical domain and is not applicable to DBMS. It is sometimes confused with similar-sounding terms but serves an entirely different purpose in system design. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "DBMS",
+    "difficulty": "Medium",
+    "question": "How does database sharding work and what are its trade-offs?",
+    "answer": "This concept in DBMS is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. Mastery of this area in DBMS allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Machine Learning",
+    "difficulty": "Medium",
+    "question": "What is cross-validation and why is it better than a single train-test split?",
+    "answer": "In the context of Machine Learning, this is a well-established technique that solves a common engineering challenge. This is a feature in Machine Learning that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Java",
+    "difficulty": "Hard",
+    "question": "How would you implement a custom Java ClassLoader for plugin isolation?",
+    "answer": "This refers to a deprecated protocol that was used in legacy Java systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Cloud Computing",
+    "difficulty": "Medium",
+    "question": "What is cloud bursting and when would you use it?",
+    "answer": "Cloud Computing is a core technology used in modern software systems. It provides reliable, scalable, and maintainable solutions by abstracting underlying complexity. When implemented correctly, it improves performance, reduces operational overhead, and enables teams to focus on business value rather than infrastructure concerns. Mastery of this area in Cloud Computing allows engineers to design more robust systems, avoid common pitfalls, and debug complex issues more effectively in production environments.",
+    "label": "correct"
+  },
+  {
+    "domain": "Python",
+    "difficulty": "Hard",
+    "question": "Explain how Python's import system works internally, including the role of sys.meta_path.",
+    "answer": "Python is a core technology used in modern software systems. This is a feature in Python that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Networking",
+    "difficulty": "Medium",
+    "question": "How does NAT (Network Address Translation) work?",
+    "answer": "In Networking, this is an optional configuration flag that slightly adjusts logging verbosity. It has minimal impact on system behavior and is rarely used in production environments. Its primary purpose is debugging during development. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "Machine Learning",
+    "difficulty": "Easy",
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a subset of artificial intelligence that enables systems to learn patterns from data and improve their performance on tasks without being explicitly programmed. It involves algorithms that build mathematical models from training data to make predictions or decisions. ML is categorized into supervised learning (labeled data), unsupervised learning (finding hidden patterns), and reinforcement learning (reward-based optimization). Applications include image recognition, NLP, fraud detection, and recommendation systems.",
+    "label": "correct"
+  },
+  {
+    "domain": "Full Stack Development",
+    "difficulty": "Easy",
+    "question": "What is an HTTP request?",
+    "answer": "Full Stack Development is a core technology used in modern software systems. In Full Stack Development, this concept handles part of the problem but does not cover all edge cases. It is commonly used in simple scenarios but requires additional tooling or configuration to work reliably at scale. Some important details are often overlooked during basic implementations.",
+    "label": "partial"
+  },
+  {
+    "domain": "AWS",
+    "difficulty": "Hard",
+    "question": "Describe a strategy for cost optimization across 50+ AWS accounts using Organizations.",
+    "answer": "This is a hardware component used in networking equipment that manages physical signal transmission. It has nothing to do with AWS specifically and is primarily used in telecommunications infrastructure for signal amplification. Applying this flawed understanding at scale would result in cascading failures, data inconsistency, and potential data loss. The correct approach requires understanding the distributed systems guarantees and failure modes that this incorrect answer ignores entirely.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "GCP",
+    "difficulty": "Hard",
+    "question": "Explain how to architect a federated learning system on GCP for privacy-preserving ML.",
+    "answer": "In the context of GCP, this is a well-established technique that solves a common engineering challenge. It works by following specific protocols and conventions that are documented in industry standards. Proper implementation requires understanding both its capabilities and its limitations to avoid common pitfalls. At scale, this aspect of GCP requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Networking",
+    "difficulty": "Easy",
+    "question": "What is the difference between TCP and UDP?",
+    "answer": "In the context of Networking, this is a well-established technique that solves a common engineering challenge. This is a feature in Networking that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Full Stack Development",
+    "difficulty": "Medium",
+    "question": "How does database connection pooling benefit a Node.js application?",
+    "answer": "This refers to a deprecated protocol that was used in legacy Full Stack Development systems before the introduction of modern standards. Most current implementations no longer support it, and using it would introduce significant security vulnerabilities. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  },
+  {
+    "domain": "SQL",
+    "difficulty": "Hard",
+    "question": "How would you implement optimistic locking in SQL to handle high-concurrency updates?",
+    "answer": "This concept in SQL is fundamental to building production-grade systems. It operates by managing resources efficiently, enforcing constraints, and providing clear interfaces for interaction. Understanding its internals allows engineers to debug issues faster, optimize performance, and design better system architectures. At scale, this aspect of SQL requires deep understanding of distributed systems principles, careful performance profiling, and often involves trade-offs between consistency, availability, and partition tolerance. Real-world implementations must also account for operational concerns such as monitoring, alerting, and graceful degradation under load.",
+    "label": "correct"
+  },
+  {
+    "domain": "Linux",
+    "difficulty": "Hard",
+    "question": "Design a Linux hardening strategy for CIS Benchmark Level 2 compliance.",
+    "answer": "This concept in Linux is fundamental to building production-grade systems. This is a feature in Linux that provides limited functionality. It can be used for basic use cases but lacks the robustness required for enterprise deployments. A complete understanding requires knowledge of related components and how they interact with each other in the broader system.",
+    "label": "partial"
+  },
+  {
+    "domain": "Azure",
+    "difficulty": "Medium",
+    "question": "How do Azure VNet Peering and VPN Gateway differ?",
+    "answer": "This is a hardware component used in networking equipment that manages physical signal transmission. It has nothing to do with Azure specifically and is primarily used in telecommunications infrastructure for signal amplification. This incorrect interpretation conflates two distinct patterns and would lead to improper implementation, security vulnerabilities, or significant performance degradation in production.",
+    "label": "incorrect"
+  }
+]
