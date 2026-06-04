@@ -1,0 +1,16 @@
+# Core dependencies
+pandas>=2.0.0
+
+# Optional - for enhanced fake data generation
+# faker>=19.0.0
+
+# Standard library modules used (no install needed):
+# - json
+# - csv
+# - random
+# - logging
+# - itertools
+# - collections
+# - argparse
+# - os
+# - sys
